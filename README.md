@@ -1,6 +1,9 @@
 # Project Name
 > Bike Sharing Assignment
 
+# Submitted By
+> Mukesh Kumar Mishra
+
 ## Introduction
 In this assignment we need to build a model for the prediction of demand for shared bikes.
 
